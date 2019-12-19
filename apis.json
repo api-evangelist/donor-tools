@@ -1,0 +1,77 @@
+{
+    "name": "Donor Tools",
+    "description": "Smart online donor management software for nonprofits.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1049-donor-tools.jpg",
+    "tags": [
+        "api provider",
+        "donation management",
+        "donors",
+        "giving",
+        "have api",
+        "nonprofit",
+        "tracking"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/donor-tools\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Donor Tools",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1049-donor-tools.jpg",
+            "humanURL": "http:\/\/www.donortools.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/donor-tools-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/demo.donortools.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.donortools.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.donortools.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/donor-tools"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/donor-tools"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.donortools.com\/userguide\/api"
+        },
+        {
+            "type": "Email",
+            "url": "privacyshield@donortools.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@donortools.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/donortools"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.donortools.com"
+        }
+    ]
+}
